@@ -1,0 +1,2 @@
+Cover AccountManager deposit, withdraw with tests
+Cover Store buy with tests
